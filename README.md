@@ -27,6 +27,7 @@ outcome과 가장 상관관계가 높은 항목으로 1. Glucose, 2.BMI, 3. Age�
 새로운 환자의 데이터에 대한 예측을 수행하는 데에 로지스틱 회귀모델은 매우 유용하다. 로지스틱 회귀모델은 계산이 비교적 간단하고 효율적이기 때문에 대규모 데이터셋에도 빠르게 적용할 수 있다. 이러한 점에서 실시간 예측이 필요한 응용 프로그램에 적합하다고 판단하였다.
 
 ![model1](https://github.com/ChoiSeunghyo/AIProject2024/blob/main/model1.png)
+![model2](https://github.com/ChoiSeunghyo/AIProject2024/blob/main/model2.png)
 
 아래는 성능평가에 활용한 ROC-AUC curve와 Precision-Recall curve이다.
 ![curve1](https://github.com/ChoiSeunghyo/AIProject2024/blob/main/curve.png)
