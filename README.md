@@ -10,12 +10,15 @@
 
 이 프로젝트는 뿐만 아니라, Flask를 사용하여 웹 페이지를 구축해 사용자가 쉽게 당뇨병 발병률을 확인할 수 있도록 확장된다. 사용자가 간편하게 자신의 건강 지표를 입력하면, 백엔드에서는 구축한 인공지능 모델을 활용하여 사용자의 당뇨병 발병 가능성을 예측한다.  이를 통해 사용자는 당뇨병 발병 가능성에 대한 예측 결과를 시각적으로 확인할 수 있을 것이다.
 
-##### 2. 사용 데이터: 
+##### 2. 사용 데이터세트: 
 Predict Diabetes From Medical Records (kaggle.com) kaggle에서 가져온 데이터를 사용했다.
+<https://www.kaggle.com/code/paultimothymooney/predict-diabetes-from-medical-records/input>
 
-##### 3. 데이터 통계:
 당뇨병 268명, 비당뇨병 500명의 데이터로 이루어졌다.
 ![통계](https://github.com/ChoiSeunghyo/AIProject2024/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%86%B5%EA%B3%84.png)
 
 outcome과 가장 상관관계가 높은 항목으로 1. Glucose, 2.BMI, 3. Age이었다.
 ![상관관계](https://github.com/ChoiSeunghyo/AIProject2024/blob/main/%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84.png)
+
+#####3. 모델 설명:
+
