@@ -15,5 +15,7 @@ Predict Diabetes From Medical Records (kaggle.com) kaggle에서 가져온 데이
 
 ##### 3. 데이터 통계:
 당뇨병 268명, 비당뇨병 500명의 데이터로 이루어졌다.
-![상관관계](https://github.com/ChoiSeunghyo/AIProject2024/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%86%B5%EA%B3%84.png)
+![통계](https://github.com/ChoiSeunghyo/AIProject2024/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%86%B5%EA%B3%84.png)
+
 outcome과 가장 상관관계가 높은 항목으로 1. Glucose, 2.BMI, 3. Age이었다.
+![상관관계](https://github.com/ChoiSeunghyo/AIProject2024/blob/main/%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84.png)
