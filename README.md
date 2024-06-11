@@ -12,3 +12,4 @@
 
 ##### 2. 사용 데이터: 
 Predict Diabetes From Medical Records (kaggle.com) kaggle에서 가져온 데이터를 사용했다.
+![이미지](https://github.com/ChoiSeunghyo/AIProject2024/blob/main/image.png)
